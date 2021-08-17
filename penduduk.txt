@@ -2,3 +2,4 @@ Penduduk
 - Membuat Data Dusun RT RW
 - Membuat Data Keluarga Relasi ke Data Dusun
 - Membuat Data Penduduk Relasi ke Data Keluarga
+- Membuat Data Surat Keterangan
